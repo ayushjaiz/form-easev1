@@ -10,5 +10,20 @@
 - **Persistent Data Storage**: PostgreSQL is used for secure form, user, and response storage.
 
 
+## Screenshots
+
+### Landing Page
+
+![alt text](image.png)
+
+### Signup Page
+
+![alt text](image-1.png)
+
+### Dashboard
+
+![alt text](image-2.png)
+
+
 
 
